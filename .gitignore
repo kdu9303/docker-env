@@ -1,2 +1,9 @@
 # large data
 data/
+venv/
+
+# data files
+*.csv
+
+# environment file
+.env
